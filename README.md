@@ -14,12 +14,8 @@
 - [`skills`](https://github.com/emmsixx/skills) — An opinionated set of custom skills for AI coding assistants.
 - [`always-on-clock`](https://github.com/emmsixx/always-on-clock) — A lightweight, customizable desktop clock overlay built with Tauri.
 
-## GitHub activity
+## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="480" alt="M6's GitHub profile and language metrics" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-activity.svg" width="480" alt="M6's GitHub contribution activity" />
+  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="100%" alt="M6's GitHub activity" />
 </p>
