@@ -26,9 +26,8 @@ jobs:
           committer_message: "chore: update profile metrics [Skip GitHub Action]"
           base: header
           config_timezone: America/Toronto
-          config_display: columns
+          config_display: large
           config_animations: no
-          config_padding: 0, 16
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           extras_css: |
