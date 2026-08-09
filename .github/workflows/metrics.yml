@@ -28,6 +28,7 @@ jobs:
           config_timezone: America/Toronto
           config_display: large
           config_animations: no
+          config_padding: 0, 16
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           extras_css: |
@@ -38,9 +39,6 @@ jobs:
               --color-calendar-graph-day-L2-bg: #7d1938;
               --color-calendar-graph-day-L3-bg: #a91d46;
               --color-calendar-graph-day-L4-bg: #d21f50;
-            }
-
-            svg {
               color: #ad909b;
               background: #0d0a0c;
             }
