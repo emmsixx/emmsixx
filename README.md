@@ -18,10 +18,10 @@
 
 ### Private
 
-- [`cmd.m6.wtf`](https://cmd.m6.wtf)
+- [`cmd`](https://cmd.m6.wtf)
 
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="720" alt="emmsixx's GitHub activity" />
+  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="auto" alt="emmsixx's GitHub activity" />
 </p>
