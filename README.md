@@ -18,7 +18,7 @@
 
 ### Private
 
-- [`cmd`](https://cmd.m6.wtf)
+- [`cmd`](https://cmd.m6.wtf): Multi-purpose discord bot
 
 ## Activity
 
