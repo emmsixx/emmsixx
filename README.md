@@ -1,21 +1,27 @@
-<h1 align="center">M6</h1>
+<h1 align="center">emmsixx</h1>
 
-<p align="center">Love open source, live in private repos.</p>
+<p align="center">I build tools, automate things, and keep a few projects private.</p>
 
 <p align="center">
   <a href="https://m6.wtf">website</a>
   ·
-  <a href="https://git.catgirls.zip/six">gitlab</a>
+  <a href="https://x.com/sixxemm">x</a>
 </p>
 
-## Selected work
+## Current projects
 
-- [`dotfiles`](https://github.com/emmsixx/dotfiles) — An interactive setup for my development environment.
-- [`skills`](https://github.com/emmsixx/skills) — An opinionated set of custom skills for AI coding assistants.
-- [`always-on-clock`](https://github.com/emmsixx/always-on-clock) — A lightweight, customizable desktop clock overlay built with Tauri.
+### Open source
+
+- [`dotfiles`](https://github.com/emmsixx/dotfiles): Development environment setup.
+- [`skills`](https://github.com/emmsixx/skills): Custom skills for AI coding assistants.
+- [`always-on-clock`](https://github.com/emmsixx/always-on-clock): A customizable desktop clock overlay built with Tauri.
+
+### Private
+
+- [`cmd.m6.wtf`](https://cmd.m6.wtf)
 
 ## Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="100%" alt="M6's GitHub activity" />
+  <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="720" alt="emmsixx's GitHub activity" />
 </p>
