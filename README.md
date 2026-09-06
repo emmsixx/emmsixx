@@ -12,8 +12,8 @@
 
 ### Open source
 
-- [`dotfiles`](https://github.com/emmsixx/dotfiles): Development environment setup.
-- [`skills`](https://github.com/emmsixx/skills): Custom skills for AI coding assistants.
+- [`dotfiles`](https://github.com/emmsixx/dotfiles): My personal dotfiles.
+- [`skills`](https://github.com/emmsixx/skills): My custom skills I use for my coding agents.
 - [`always-on-clock`](https://github.com/emmsixx/always-on-clock): A customizable desktop clock overlay built with Tauri.
 
 ### Other
