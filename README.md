@@ -1,11 +1,11 @@
-<h1 align="center">emmsixx</h1>
+<h1>Hi, I'm M6 👋</h1>
 
-<p align="center">I build tools, automate things, and keep a few projects private.</p>
+<p>I'm a 22-year-old CS student and full-stack developer in Ontario, Canada. I've been programming since I was 12, building everything from expressive frontends to always-on services and backend systems used by thousands of people.</p>
 
-<p align="center">
-  <a href="https://m6.wtf">website</a>
+<p>
+  <a href="https://m6.wtf">Website</a>
   ·
-  <a href="https://x.com/sixxemm">x</a>
+  <a href="https://x.com/sixxemm">X</a>
 </p>
 
 ## Current projects
@@ -16,12 +16,12 @@
 - [`skills`](https://github.com/emmsixx/skills): Custom skills for AI coding assistants.
 - [`always-on-clock`](https://github.com/emmsixx/always-on-clock): A customizable desktop clock overlay built with Tauri.
 
-### Private
+### Other
 
 - [`cmd`](https://cmd.m6.wtf): Multi-purpose discord bot
 
 ## Activity
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/emmsixx/emmsixx/main/github-metrics.svg" width="auto" alt="emmsixx's GitHub activity" />
 </p>
