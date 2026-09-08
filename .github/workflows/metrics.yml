@@ -24,15 +24,11 @@ jobs:
           template: classic
           filename: github-metrics.svg
           committer_message: "chore: update profile metrics [Skip GitHub Action]"
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: America/Toronto
-          config_display: large
           config_animations: no
-          config_padding: 0, 16
-          plugin_gists: no
-          plugin_isocalendar: no
-          plugin_isocalendar_duration: full-year
-          plugin_traffic: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           extras_css: |
             :root {
               --color-calendar-graph-day-bg: #171014;
