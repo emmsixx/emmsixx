@@ -15,6 +15,7 @@
 - [`dotfiles`](https://github.com/emmsixx/dotfiles): My personal dotfiles.
 - [`skills`](https://github.com/emmsixx/skills): My custom skills I use for my coding agents.
 - [`always-on-clock`](https://github.com/emmsixx/always-on-clock): A customizable desktop clock overlay built with Tauri.
+- [`t3code-mcp`](https://github.com/emmsixx/t3code-mcp): MCP bridge for external agents to reach T3 Code machines.
 - [`yeet`](https://github.com/emmsixx/yeet): "Yeet" your changes to GitHub in one go.
 
 ### Other
